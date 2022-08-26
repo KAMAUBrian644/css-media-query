@@ -1,0 +1,20 @@
+
+@media(min-width:768px)
+{
+    h3{
+        color: rgb(51, 0, 170);
+        text-transform: capitalize;
+        text-decoration: underline;
+        
+    }
+    
+}
+@media(min-width:768px){
+    .head{
+        background-color:#080708e7;
+    }
+    .h3{
+        color: #f0f8ff;
+        text-align: center;
+    }
+}
